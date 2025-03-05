@@ -11,6 +11,5 @@ IT Engineering Student Passionate About
 - **Programming Languages**: Java, C, C++
 - **Web Development**: HTML, CSS, JavaScript
 
-### Let's Connect!
-Feel free to reach out for collaborations or just a chat! 😄
+
 
