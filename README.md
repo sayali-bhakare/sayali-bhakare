@@ -1,7 +1,6 @@
 ## Hi there, I'm Sayali Bhakare👋
 
-IT Engineering Student Passionate About  
-**Web Development** 
+I am a passionate software developer having knowledge in languages like Java, C, C++, HTML, CSS, JavaScript.
 
 📫 Reach me at: [sayalibhakare1703@gmail.com](mailto:sayalibhakare1703@gmail.com) 
 💼 LinkedIn: [in/sayali-bhakare](https://www.linkedin.com/in/sayali-bhakare)  
