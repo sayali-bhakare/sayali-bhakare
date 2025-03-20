@@ -9,7 +9,8 @@ IT Engineering Student Passionate About
 
 ### Skills
 - **Programming Languages**: Java, C, C++
-- **Web Development**: HTML, CSS, JavaScript
+- **Web Development**: HTML, CSS, JavaScript, Bootstrap
+- **Database**: Sql,Mysql,MongoDB
 
 
 
