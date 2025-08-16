@@ -6,10 +6,6 @@ I am an IT Engineering Student having knowledge in languages like Java, C, C++, 
 💼 LinkedIn: [in/sayali-bhakare](https://www.linkedin.com/in/sayali-bhakare)  
 🐦 Twitter: [@sayaliib10](https://twitter.com/sayaliib10)
 
-### Skills
-- **Programming Languages**: Java, C, C++
-- **Web Development**: HTML, CSS, JavaScript, Bootstrap
-- **Database**: Sql,Mysql,MongoDB
 
 
 
